@@ -1,11 +1,5 @@
 <!--
-CREACION DE NOTAS, DESCRIPCIONES, OBSERVACIONES Y PLANES DE MEJORA 
--->
-<!--
-PLANES DE MEJORA
-+ Se debe reducir o comprimir la informacion para que no se vea demaciado enrredado ni resulte cansado para la vista
-+ utilizar MarkDown y HTML cuando sea debido
-+ MEJORAR LA LISTA DESCRIPTIVA
+CREACION DE NOTAS, DESCRIPCIONES, OBSERVACIONES Y "PLANES DE MEJORA"
 -->
 <h1 align="center">
   💻 Hola, Soy Andres0usb 💻
@@ -126,7 +120,6 @@ LENGUAJES & TECNOLOGIAS APRENDIDAS
 <!--
 Resaltar las habilidades profesionales y personales
 -->
-
 > [!IMPORTANT]
 > ## HABILIDADES
 > | 💻 Profesional               | 📚 Personal             |
@@ -144,14 +137,12 @@ Resaltar las habilidades profesionales y personales
 <!--
 ANALITICAS DE GITHUB
 -->
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andres0usb&show_icons=true&locale=en)
 ![GitHub](https://github-profile-trophy.vercel.app/?username=andres0usb)
 
 <!--
 REDES SOCIALES Y PLATAFORMAS
 -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/andres0usb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/andres0usb" height="30" width="40" /></a>
@@ -164,33 +155,4 @@ REDES SOCIALES Y PLATAFORMAS
 >
 > 💾 Para mi la informacion es de las cosas mas importante que tenemos en nuestra actualidad
 >### 📑¡Deja tu comentario sobre mi perfil como desarrollador!👉[AQUI](https://github.com/andres0usb/andres0usb/issues/1). 
->
-
-<!--
-
-![a5ce005b46fba15c532638beb2c0373a](https://github.com/user-attachments/assets/01a22f0b-3be9-4bce-9e34-cea1c72d5e60)
-
-
-
-- [x] #
-`
-println ("Hola mundo");
-`
-This site was built using [GitHub Pages](https://pages.github.com/).
--->
-
-
-<!--
-**andres0usb/andres0usb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> <br>
