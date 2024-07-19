@@ -147,6 +147,7 @@ REDES SOCIALES Y PLATAFORMAS
 <p align="left">
 <a href="https://dev.to/https://dev.to/andres0usb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/andres0usb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andres-jimenez-01749322b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-jimenez-01749322b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/224146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="224146" height="30" width="40" /></a>
 </p>
 
 
