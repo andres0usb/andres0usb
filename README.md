@@ -1,11 +1,72 @@
 <!--
 CREACION DE NOTAS, DESCRIPCIONES, OBSERVACIONES Y "PLANES DE MEJORA"
 -->
-<h1 align="center">
-  💻 Hola, Soy Andres0usb 💻
-</h1>
+<!--
+================GUIA PARA ESTILOS================
+.img: Centra las imagenes
+.center: centra
+-->
+<style>
+    .card {
+        background: #1B2632;
+        width: 300px;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
 
+    .card img {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        margin-bottom: 20px;
+    }
+
+    .card h1 {
+        margin: 0;
+        font-size: 24px;
+        color: #fff;
+    }
+
+    .card p {
+        font-size: 16px;
+        color: #ffffff;
+        margin: 10px 0;
+    }
+
+    .card a {
+        text-decoration: none;
+        color: #007bff;
+        font-size: 16px;
+        display: inline-block;
+        margin-top: 10px;
+    }
+
+    .card a:hover {
+        color: #000000;
+    }
+    .img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+    }
+</style>
+<!--
+=================Contenido=======================
+nota:
 ![GIF IMAGEN MAPA MUNDO](https://github.com/user-attachments/assets/7c2aac41-59cd-4e25-a977-8fbe87325f62)
+-->
+
+<div class="img">
+    <div class="card">
+        <img src="https://media.licdn.com/dms/image/D4E03AQGz5Y-aVa1dtg/profile-displayphoto-shrink_800_800/0/1720792924537?e=1727308800&v=beta&t=sOBRRXspqfEJS70gbL2284zfW3USbwEWldoemqZGhPE" alt="Profile Image">
+        <h1>💻 Soy Andres Jimenez 💻</h1>
+        <p>Desarrollador de Software</p>
+        <a href="https://www.linkedin.com/in/andres-jimenez-01749322b/" target="_blank">Visita mi linkedin</a>
+    </div>
+</div>
 
 <!-- 
 DESCRIPCION PERSONAL
@@ -34,6 +95,7 @@ LISTA DE DATOS PERSONALES
 
 <!--
 LENGUAJES & TECNOLOGIAS APRENDIDAS
+-no modificar por ahora, solo si tienes tiempo
 -->
 ### Lenguajes y tecnologias
 
