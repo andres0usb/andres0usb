@@ -20,7 +20,6 @@ graph LR
     C --> E[Fin]
     D --> E[Fin]
 
-pie title Gráfico de Pie
     "Series A" : 60
     "Series B" : 30
     "Series C" : 10
