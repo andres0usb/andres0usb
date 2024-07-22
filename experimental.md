@@ -81,36 +81,3 @@ graph TD
     C --> G[Nodo 2.2]
 
 ```
-
-```mermaid
-kanban
-    
-    section Por Hacer
-      Tarea 1 :done, 2024-07-01, 30d
-      Tarea 2 :todo, 2024-07-15, 20d
-    section En Progreso
-      Tarea 3 :inprogress, 2024-07-25, 12d
-    section Hecho
-      Tarea 4 :done, 2024-08-01, 10d
-
-```
-```mermaid
-graph TD
-    A[Cliente] --> B[Servidor de Aplicaciones]
-    B --> C[Base de Datos]
-    B --> D[API Externa]
-    D --> E[Sistema de Autenticación]
-
-```
-```mermaid
-```
-```mermaid
-```
-```mermaid
-```
-```mermaid
-```
-```mermaid
-```
-```mermaid
-```
