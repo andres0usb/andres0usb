@@ -52,65 +52,6 @@ graph TD
     G --> N[Evaluación Post-Despliegue]
     N --> G
 
-    style A fill:#333,stroke:#fff,stroke-width:2px;color:#fff;
-    style B fill:#444,stroke:#fff,stroke-width:2px;color:#fff;
-    style C fill:#555,stroke:#fff,stroke-width:2px;color:#fff;
-    style D fill:#666,stroke:#fff,stroke-width:2px;color:#fff;
-    style E fill:#777,stroke:#fff,stroke-width:2px;color:#fff;
-    style F fill:#888,stroke:#fff,stroke-width:2px;color:#fff;
-    style G fill:#999,stroke:#fff,stroke-width:2px;color:#fff;
-    style H fill:#333,stroke:#fff,stroke-width:2px;color:#fff;
-    style I fill:#444,stroke:#fff,stroke-width:2px;color:#fff;
-    style J fill:#555,stroke:#fff,stroke-width:2px;color:#fff;
-    style K fill:#666,stroke:#fff,stroke-width:2px;color:#fff;
-    style L fill:#777,stroke:#fff,stroke-width:2px;color:#fff;
-    style M fill:#888,stroke:#fff,stroke-width:2px;color:#fff;
-    style N fill:#999,stroke:#fff,stroke-width:2px;color:#fff;
-```
-
-```mermaid
-graph TD
-    A[Inicio] --> B[Análisis de Requisitos]
-    B --> C[Diseño]
-    C --> D[Desarrollo]
-    D --> E[Pruebas]
-    E --> F[Despliegue]
-    F --> G[Mantenimiento]
-
-    subgraph "Fase de Planificación"
-        A;
-        B;
-    end
-
-    subgraph "Fase de Implementación"
-        C;
-        D;
-        E;
-    end
-
-    subgraph "Fase de Entrega"
-        F;
-        G;
-    end
-
-    B --> H[Revisión de Requisitos]
-    H --> B
-
-    D --> I[Desarrollo de Características]
-    I --> D
-
-    E --> J[Pruebas de Integración]
-    J --> E
-    E --> K[Pruebas de Usuario]
-    K --> E
-
-    F --> L[Preparación de Documentación]
-    L --> M[Despliegue en Producción]
-    M --> F
-
-    G --> N[Evaluación Post-Despliegue]
-    N --> G
-
     style A fill:#333,stroke:#fff,stroke-width:2px,color:#fff;
     style B fill:#444,stroke:#fff,stroke-width:2px,color:#fff;
     style C fill:#555,stroke:#fff,stroke-width:2px,color:#fff;
@@ -131,31 +72,6 @@ graph TD
 ```
 
 ```mermaid
-sequenceDiagram
-    Alice->>Bob: Hola Bob, ¿cómo estás?
-    Bob-->>Alice: Bien, gracias.
-    Alice->>Bob: ¿Tienes tiempo para una reunión mañana?
-    Bob-->>Alice: Sí, a las 10 AM.
-
-```
-```mermaid
-stateDiagram
-    [*] --> Inactivo
-    Inactivo --> Activo
-    Activo --> Pausado
-    Pausado --> Activo
-    Activo --> [*]
-
-```
-```mermaid
-graph TB
-    A[Router] --> B[Switch]
-    B --> C[Servidor]
-    B --> D[Impresora]
-    A --> E[Computadora]
-
-```
-```mermaid
 graph TD
     A[Raíz] --> B[Nodo 1]
     A --> C[Nodo 2]
@@ -165,20 +81,10 @@ graph TD
     C --> G[Nodo 2.2]
 
 ```
-```mermaid
-journey
-    title Proceso de Contratación
-    section Entrevista
-      Alice: 5: Entrevista inicial
-      Bob: 4: Revisión de CVs
-    section Selección
-      Alice: 3: Evaluación final
-      Bob: 2: Selección y oferta
 
-```
 ```mermaid
 kanban
-    title Tablero Kanban
+    
     section Por Hacer
       Tarea 1 :done, 2024-07-01, 30d
       Tarea 2 :todo, 2024-07-15, 20d
