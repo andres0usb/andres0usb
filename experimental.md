@@ -19,8 +19,4 @@ graph LR
     B -->|No| D[Acción 2]
     C --> E[Fin]
     D --> E[Fin]
-
-    "Series A" : 60
-    "Series B" : 30
-    "Series C" : 10
 ```
