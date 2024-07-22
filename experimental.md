@@ -23,3 +23,4 @@ graph LR
     "Series A" : 60
     "Series B" : 30
     "Series C" : 10
+```
