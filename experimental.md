@@ -7,8 +7,8 @@
 
 
 
-### Gráfico de Barras con Mermaid
-### Mi Flujo de Traba
+### Mi Flujo de Trabajo Complejo
+
 ```mermaid
 graph TD
     A[Inicio] --> B[Análisis de Requisitos]
@@ -52,19 +52,18 @@ graph TD
     G --> N[Evaluación Post-Despliegue]
     N --> G
 
-    style A fill:#f9f,stroke:#333,stroke-width:2px;
-    style B fill:#bbf,stroke:#333,stroke-width:2px;
-    style C fill:#afa,stroke:#333,stroke-width:2px;
-    style D fill:#fea,stroke:#333,stroke-width:2px;
-    style E fill:#8e8,stroke:#333,stroke-width:2px;
-    style F fill:#88f,stroke:#333,stroke-width:2px;
-    style G fill:#fbb,stroke:#333,stroke-width:2px;
-    style H fill:#f9f,stroke:#333,stroke-width:2px;
-    style I fill:#bbf,stroke:#333,stroke-width:2px;
-    style J fill:#afa,stroke:#333,stroke-width:2px;
-    style K fill:#fea,stroke:#333,stroke-width:2px;
-    style L fill:#8e8,stroke:#333,stroke-width:2px;
-    style M fill:#88f,stroke:#333,stroke-width:2px;
-    style N fill:#fbb,stroke:#333,stroke-width:2px;
-
+    style A fill:#333,stroke:#fff,stroke-width:2px;color:#fff;
+    style B fill:#444,stroke:#fff,stroke-width:2px;color:#fff;
+    style C fill:#555,stroke:#fff,stroke-width:2px;color:#fff;
+    style D fill:#666,stroke:#fff,stroke-width:2px;color:#fff;
+    style E fill:#777,stroke:#fff,stroke-width:2px;color:#fff;
+    style F fill:#888,stroke:#fff,stroke-width:2px;color:#fff;
+    style G fill:#999,stroke:#fff,stroke-width:2px;color:#fff;
+    style H fill:#333,stroke:#fff,stroke-width:2px;color:#fff;
+    style I fill:#444,stroke:#fff,stroke-width:2px;color:#fff;
+    style J fill:#555,stroke:#fff,stroke-width:2px;color:#fff;
+    style K fill:#666,stroke:#fff,stroke-width:2px;color:#fff;
+    style L fill:#777,stroke:#fff,stroke-width:2px;color:#fff;
+    style M fill:#888,stroke:#fff,stroke-width:2px;color:#fff;
+    style N fill:#999,stroke:#fff,stroke-width:2px;color:#fff;
 ```
