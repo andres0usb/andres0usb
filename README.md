@@ -7,21 +7,18 @@ nota:
 ![GIF IMAGEN MAPA MUNDO](https://github.com/user-attachments/assets/7c2aac41-59cd-4e25-a977-8fbe87325f62)
 -->
 
-### Mi Tarjeta de Perfil
-
-<div style="display: block; margin-left: auto; margin-right: auto; width: 40%;">
-    <div style="background: #1B2632; width: 300px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center; margin: auto;">
-        <img src="https://media.licdn.com/dms/image/D4E03AQGz5Y-aVa1dtg/profile-displayphoto-shrink_800_800/0/1720792924537?e=1727308800&v=beta&t=sOBRRXspqfEJS70gbL2284zfW3USbwEWldoemqZGhPE" alt="Profile Image" style="width: 120px; height: 120px; border-radius: 50%; margin-bottom: 20px;">
-        <h1 style="margin: 0; font-size: 24px; color: #fff;">💻 Soy Andres Jimenez 💻</h1>
-        <p style="font-size: 16px; color: #ffffff; margin: 10px 0;">Desarrollador de Software</p>
-        <a href="https://www.linkedin.com/in/andres-jimenez-01749322b/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 16px; display: inline-block; margin-top: 10px;">Visita mi LinkedIn</a>
-    </div>
-</div>
-
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4E03AQGz5Y-aVa1dtg/profile-displayphoto-shrink_800_800/0/1720792924537?e=1727308800&v=beta&t=sOBRRXspqfEJS70gbL2284zfW3USbwEWldoemqZGhPE" alt="Profile Image" width="120" height="120">
+</p>
+<h1 align="center">💻 Soy Andres Jimenez 💻</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/andres-jimenez-01749322b/" target="_blank">Visita mi LinkedIn</a>
+</p>
 
 <!-- 
 DESCRIPCION PERSONAL
 -->
+
 ## 🍕Sobre mi.  
 Estudiante de Ingeniería de Sistemas con sólidos conocimientos en **matemáticas, programación ***( ⚙ Java, Python, php, javascript )*** , bases de datos, redes de  comunicación, inteligencia artificial y arquitectura del computador.** 👾 Enfoque en resolver problemas eficientemente y crear soluciones innovadoras con impacto social.✅ Soy proactivo, con fuertes habilidades interpersonales y preparado para enfrentar desafíos profesionales con confianza, contribuyendo significativamente  en cualquier entorno laboral. 📌
 
@@ -147,6 +144,74 @@ Resaltar las habilidades profesionales y personales
 >
 
 <br>
+
+<!--
+Diagrama
+-->
+
+### Mi Flujo de Trabajo
+
+```mermaid
+graph TD
+    A[Inicio] --> B[Análisis de Requisitos]
+    B --> C[Diseño]
+    C --> D[Desarrollo]
+    D --> E[Pruebas]
+    E --> F[Despliegue]
+    F --> G[Mantenimiento]
+
+    subgraph "Fase de Planificación"
+        A;
+        B;
+    end
+
+    subgraph "Fase de Implementación"
+        C;
+        D;
+        E;
+    end
+
+    subgraph "Fase de Entrega"
+        F;
+        G;
+    end
+
+    B --> H[Revisión de Requisitos]
+    H --> B
+
+    D --> I[Desarrollo de Características]
+    I --> D
+
+    E --> J[Pruebas de Integración]
+    J --> E
+    E --> K[Pruebas de Usuario]
+    K --> E
+
+    F --> L[Preparación de Documentación]
+    L --> M[Despliegue en Producción]
+    M --> F
+
+    G --> N[Evaluación Post-Despliegue]
+    N --> G
+
+    style A fill:#333,stroke:#fff,stroke-width:2px,color:#fff;
+    style B fill:#444,stroke:#fff,stroke-width:2px,color:#fff;
+    style C fill:#555,stroke:#fff,stroke-width:2px,color:#fff;
+    style D fill:#666,stroke:#fff,stroke-width:2px,color:#fff;
+    style E fill:#777,stroke:#fff,stroke-width:2px,color:#fff;
+    style F fill:#888,stroke:#fff,stroke-width:2px,color:#fff;
+    style G fill:#999,stroke:#fff,stroke-width:2px,color:#fff;
+    style H fill:#333,stroke:#fff,stroke-width:2px,color:#fff;
+    style I fill:#444,stroke:#fff,stroke-width:2px,color:#fff;
+    style J fill:#555,stroke:#fff,stroke-width:2px,color:#fff;
+    style K fill:#666,stroke:#fff,stroke-width:2px,color:#fff;
+    style L fill:#777,stroke:#fff,stroke-width:2px,color:#fff;
+    style M fill:#888,stroke:#fff,stroke-width:2px,color:#fff;
+    style N fill:#999,stroke:#fff,stroke-width:2px,color:#fff;
+
+    classDef critical fill:#f00,stroke:#fff,stroke-width:2px,color:#fff;
+    class E,F,G critical;
+```
 
 <!--
 ANALITICAS DE GITHUB
